@@ -1,4 +1,4 @@
-fetch('./words.json')
+fetch('./data/words.json')
 .then(function(response) {
     return response.json();
 })

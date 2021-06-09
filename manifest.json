@@ -7,7 +7,7 @@
         "newtab": "index.html"
     },
     "web_accessible_resources": [{ 
-        "resources": ["words.json"],
+        "resources": ["/data/words.json"],
         "matches": ["<all_urls>"]
     }]
 }
