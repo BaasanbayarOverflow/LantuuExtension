@@ -23,5 +23,7 @@ This web browser extension is dedicated only for Lantuu members
 Миний заавраас ойлгомжгүй зүйл гарсан бол надаас асууж болно шүү :smile:
 Бүх санал хүсэлтийг баяртайгаар хүлээж авна :heart_eyes: :heart_eyes:
 
+# Үр дүн
+![Result](./images/result.png)
 
 
