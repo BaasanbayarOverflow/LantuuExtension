@@ -17,6 +17,6 @@ This web browser extension is dedicated only for Lantuu members
 - Интернет хөтөч рүүгээ задалсан кодоо хуулахдаа
     1. Brave    
 ![Brave](./images/braveMenu.png)
-    Баруун дээд булан дахь үндсэн цэсний хэсгээс `Extensions` дарж, нээгдсэн шинэ цонхны баруун дээр булангийн `developer mode` горимыг идэвхжүүлнэ. Үүний дараагаар шинээр нээгдсэн нэмэлт цэсний `Load unpacked` товчийг дарж, үүсгэсэн `LantuuExtension` folder-оо зааж өгөөд
+    Баруун дээд булан дахь үндсэн цэсний хэсгээс `Extensions` дарж, нээгдсэн шинэ цонхны баруун дээр булангийн `developer mode` горимыг идэвхжүүлнэ. Үүний дараагаар шинээр нээгдсэн нэмэлт цэсний `Load unpacked` товчийг дарж, үүсгэсэн `LantuuExtension` folder-оо заана.
 ![Brave](./images/braveAdd.png)
 
