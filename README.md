@@ -8,15 +8,17 @@ This web browser extension is dedicated only for Lantuu members
 - Нэмэлтийг татахдаа цэснээс **Download ZIP** товчийг дарж татна. 
 ![Github window](./images/githubMenu.png)
 ### Татсан **LantuuExtension-main.zip** файлаа 
-    1. Local Disk (C:)/Program Files (x86)/BraveSoftware/
-    2. Local Disk (C:)/Program Files (x86)/Microsoft/Edge/
-    3. Local Disk (C:)/Program Files (x86)/Opera/
-    4. Local Disk (C:)/Program Files (x86)/Google Chrome/
-    5. Local Disk (C:)/Program Files (x86)/Mozilla firefox/
-    дээрхээс өөрийн ашигладаг хөтчийн хавтас дотор шинээр `LantuuExtension` нэртэй хавтас үүсгээд, **LantuuExtension-main.zip** файлаа задлана.
+
+1. Local Disk (C:)/Program Files (x86)/BraveSoftware/
+2. Local Disk (C:)/Program Files (x86)/Microsoft/Edge/
+3. Local Disk (C:)/Program Files (x86)/Opera/
+4. Local Disk (C:)/Program Files (x86)/Google Chrome/
+5. Local Disk (C:)/Program Files (x86)/Mozilla firefox/
+дээрхээс өөрийн ашигладаг хөтчийн хавтас дотор шинээр `LantuuExtension` нэртэй хавтас үүсгээд, **LantuuExtension-main.zip** файлаа задлана.
+
 ### Интернет хөтөч рүүгээ задалсан кодоо хуулахдаа
 
-    Хөтчийнхөө баруун дээд булан дахь үндсэн цэсний хэсгээс `Extensions` дарж, нээгдсэн шинэ цонхны баруун дээд булангийн `developer mode` горимыг идэвхжүүлнэ. Үүний дараагаар шинээр нээгдсэн нэмэлт цэсний `Load unpacked` товчийг дарж, үүсгэсэн `LantuuExtension` folder-оо заана. Тэгээд интернет хөтчөөсөө шинээр суулгасан нэмэлтээ идэвхжүүлээл болоо. :smile:
+Хөтчийнхөө баруун дээд булан дахь үндсэн цэсний хэсгээс `Extensions` дарж, нээгдсэн шинэ цонхны баруун дээд булангийн `developer mode` горимыг идэвхжүүлнэ. Үүний дараагаар шинээр нээгдсэн нэмэлт цэсний `Load unpacked` товчийг дарж, үүсгэсэн `LantuuExtension` folder-оо заана. Тэгээд интернет хөтчөөсөө шинээр суулгасан нэмэлтээ идэвхжүүлээл болоо. :smile:
 
 
 
