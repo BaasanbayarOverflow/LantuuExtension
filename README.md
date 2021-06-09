@@ -7,8 +7,8 @@ This web browser extension is dedicated only for Lantuu members
 #Суулгах заавар
 - Нэмэлтийг татахдаа цэснээс **Download ZIP** товчийг дарж татна. 
 ![Github window](./images/githubMenu.png)
--Татсан **LantuuExtension-main.zip** файлаа 
-    - [ ] Local Disk (C:)/Program Files (x86)/BraveSoftware/
-    - [ ] Local Disk (C:)/Program Files (x86)/Microsoft/Edge/
-    - [ ] Local Disk (C:)/Program Files (x86)/Opera/
-    - [ ] Local Disk (C:)/Program Files (x86)/Google Chrome/
+- Татсан **LantuuExtension-main.zip** файлаа 
+    1. Local Disk (C:)/Program Files (x86)/BraveSoftware/
+    2. Local Disk (C:)/Program Files (x86)/Microsoft/Edge/
+    3. Local Disk (C:)/Program Files (x86)/Opera/
+    4. Local Disk (C:)/Program Files (x86)/Google Chrome/
